@@ -1,0 +1,50 @@
+@media screen and (max-width:1000px) 
+{   
+    .imglogo{
+        top:5px;
+    }
+    .carro{
+        display:none; 
+    }
+    .imgbaner{
+      display:none;
+    }
+    .menumobile{
+        border:1px solid #ffffff;
+        margin-top:20px; 
+        display:block;
+        
+    }
+    .menur{
+        display:none;
+        max-height:1000px;
+        width:100%;
+       
+        
+    }
+    .linkm{
+         
+    }
+    
+    .spanfooter{ 
+    
+     text-align:center;   
+       
+    }
+    
+    .rowsobre{
+        max-width:1000px;
+        width:100%; 
+    }
+    .footer{
+        height:150px; 
+        text-align:center;
+    }
+    .menu{
+        display:none;
+    }
+    
+   
+    .divsobre{
+        height:500px; 
+    }
